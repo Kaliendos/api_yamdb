@@ -16,3 +16,7 @@ class User(AbstractUser):
         max_length=150,
         choices=ROLE_CHOICES,
         default="user")
+
+
+class Review(models.Model):
+    text = models.TextField()
