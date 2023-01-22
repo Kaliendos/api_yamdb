@@ -20,7 +20,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/Jaraxxsus/api_yamdb
+https://github.com/Kaliendos/api_yamdb
 ```
 
 ```
